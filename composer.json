@@ -1,0 +1,15 @@
+{
+    "autoload": {
+      "psr-4": {
+        "src\\": "src/"
+      }
+    },
+    "name": "shigematsu/test",
+    "authors": [
+        {
+            "name": "shigematsu",
+            "email": "shigematsu.m@tam-tam.co.jp"
+        }
+    ],
+    "require": {}
+}
